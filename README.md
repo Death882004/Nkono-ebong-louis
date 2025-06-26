@@ -2,7 +2,7 @@
 Bienvenue dans mon projet de site web en HTML, CSS et JavaScript.
 Ce projet est aussi une introduction à Git et GitHub avec des branches bien organisées.
 
-🚀 Objectif du projet
+🚀 Objectif du projet WEB
 Créer un site web simple avec :
 
 Une page d'accueil (index.html)
