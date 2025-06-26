@@ -35,10 +35,20 @@ Dossier du projet
 
 
 projet-web/
+
+
 ├── index.html
+
+
 ├── css/
+
+
 │   └── style.css
+
+
 ├── js/
+
+
 │   └── script.js
 
 
